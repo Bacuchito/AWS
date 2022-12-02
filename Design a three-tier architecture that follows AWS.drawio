@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-12-02T13:35:27.180Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="MYybdwOFWJXAkmhRpVeD" version="20.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-02T14:35:01.603Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="BQB0H_gUxup81b_E8Ujr" version="20.6.0" type="github">
   <diagram id="xggmqmnDdCMUJtHXeGxX" name="Página-1">
-    <mxGraphModel dx="680" dy="1550" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="782" dy="1607" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -10,10 +10,10 @@
         <mxCell id="Yk63QLegk9tkWfs8BIzJ-25" value="US-EAST-1" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_region;verticalAlign=top;align=left;spacingLeft=30;dashed=1;labelBackgroundColor=none;strokeWidth=2;fillColor=none;strokeColor=#7EA6E0;" parent="1" vertex="1">
           <mxGeometry x="50" y="-70" width="760" height="860" as="geometry" />
         </mxCell>
-        <mxCell id="Yk63QLegk9tkWfs8BIzJ-33" value="us-east-1a" style="fillColor=none;strokeColor=#000000;verticalAlign=top;fontStyle=0;fontColor=#147EBA;labelBackgroundColor=none;strokeWidth=2;" parent="Yk63QLegk9tkWfs8BIzJ-25" vertex="1">
+        <mxCell id="Yk63QLegk9tkWfs8BIzJ-33" value="Availability zone us-east-1a" style="fillColor=none;strokeColor=#000000;verticalAlign=top;fontStyle=0;fontColor=#147EBA;labelBackgroundColor=none;strokeWidth=2;" parent="Yk63QLegk9tkWfs8BIzJ-25" vertex="1">
           <mxGeometry x="90" y="30" width="230" height="770" as="geometry" />
         </mxCell>
-        <mxCell id="Yk63QLegk9tkWfs8BIzJ-34" value="us-east-1b" style="fillColor=none;strokeColor=#000000;verticalAlign=top;fontStyle=0;fontColor=#147EBA;labelBackgroundColor=none;strokeWidth=2;" parent="Yk63QLegk9tkWfs8BIzJ-25" vertex="1">
+        <mxCell id="Yk63QLegk9tkWfs8BIzJ-34" value="Availability zone us-east-1b" style="fillColor=none;strokeColor=#000000;verticalAlign=top;fontStyle=0;fontColor=#147EBA;labelBackgroundColor=none;strokeWidth=2;" parent="Yk63QLegk9tkWfs8BIzJ-25" vertex="1">
           <mxGeometry x="440" y="30" width="230" height="770" as="geometry" />
         </mxCell>
         <mxCell id="Yk63QLegk9tkWfs8BIzJ-35" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#4D27AA;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.internet_gateway;labelBackgroundColor=none;strokeWidth=2;" parent="Yk63QLegk9tkWfs8BIzJ-25" vertex="1">
@@ -120,6 +120,9 @@
         </mxCell>
         <mxCell id="7BhhN1L9Lo45RrHUkkJ7-32" value="&lt;h1&gt;5&lt;/h1&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#7EA6E0;strokeWidth=1;fontColor=#666666;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="847" y="193" width="31" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="7BhhN1L9Lo45RrHUkkJ7-33" value="&lt;div style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 14px; background-color: initial;&quot;&gt;Explanation&lt;/b&gt;&lt;span style=&quot;font-size: 14px; background-color: initial;&quot;&gt;:&lt;/span&gt;&lt;/div&gt;&lt;font style=&quot;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;/font&gt;&lt;div style=&quot;text-align: justify; font-size: 14px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;A three-tier architecture is a software architecture pattern in which the application is divided into three logical tiers: the presentation layer, the business logic layer and the data storage layer. This architecture is used in a client-server application such as a web application that has the frontend, the backend and the database.&amp;nbsp;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;labelBackgroundColor=none;strokeWidth=0;align=center;fillColor=none;strokeColor=#DAE8FC;" vertex="1" parent="1">
+          <mxGeometry x="867" y="264" width="225" height="225" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
