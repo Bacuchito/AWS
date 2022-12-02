@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-12-02T13:34:19.905Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="u9Y86K1Yf6t644Ys7B0J" version="20.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-02T13:35:27.180Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="MYybdwOFWJXAkmhRpVeD" version="20.6.0" type="github">
   <diagram id="xggmqmnDdCMUJtHXeGxX" name="Página-1">
-    <mxGraphModel dx="539" dy="1471" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="680" dy="1550" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -92,34 +92,34 @@
           <mxGeometry x="840" y="-110" width="279" height="930" as="geometry" />
         </mxCell>
         <mxCell id="7BhhN1L9Lo45RrHUkkJ7-21" value="The first thing I did was to create a VPC." style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeWidth=0;align=left;fillColor=none;strokeColor=#DAE8FC;" vertex="1" parent="1">
-          <mxGeometry x="880" y="-81" width="208" height="47" as="geometry" />
+          <mxGeometry x="884" y="-81" width="208" height="47" as="geometry" />
         </mxCell>
         <mxCell id="7BhhN1L9Lo45RrHUkkJ7-24" value="&lt;h1&gt;1&lt;/h1&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#7EA6E0;strokeWidth=1;fontColor=#666666;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="843" y="-72" width="31" height="29" as="geometry" />
+          <mxGeometry x="847" y="-72" width="31" height="29" as="geometry" />
         </mxCell>
         <mxCell id="7BhhN1L9Lo45RrHUkkJ7-25" value="&lt;h1&gt;2&lt;/h1&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#7EA6E0;strokeWidth=1;fontColor=#666666;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="843" y="-12" width="31" height="29" as="geometry" />
+          <mxGeometry x="847" y="-12" width="31" height="29" as="geometry" />
         </mxCell>
         <mxCell id="7BhhN1L9Lo45RrHUkkJ7-26" value="We will create an internet gateway." style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeWidth=0;align=left;fillColor=none;strokeColor=#DAE8FC;" vertex="1" parent="1">
-          <mxGeometry x="880" y="-21" width="208" height="47" as="geometry" />
+          <mxGeometry x="884" y="-21" width="208" height="47" as="geometry" />
         </mxCell>
         <mxCell id="7BhhN1L9Lo45RrHUkkJ7-27" value="&lt;h1&gt;3&lt;/h1&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#7EA6E0;strokeWidth=1;fontColor=#666666;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="843" y="52" width="31" height="29" as="geometry" />
+          <mxGeometry x="847" y="52" width="31" height="29" as="geometry" />
         </mxCell>
         <mxCell id="7BhhN1L9Lo45RrHUkkJ7-28" value="Then we will create 6 subnets of which the public ones we will enable the auto-assign public IPv4." style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeWidth=0;align=left;fillColor=none;strokeColor=#DAE8FC;" vertex="1" parent="1">
-          <mxGeometry x="880" y="41" width="208" height="51" as="geometry" />
+          <mxGeometry x="884" y="41" width="208" height="51" as="geometry" />
         </mxCell>
         <mxCell id="7BhhN1L9Lo45RrHUkkJ7-29" value="&lt;h1&gt;4&lt;/h1&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#7EA6E0;strokeWidth=1;fontColor=#666666;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="843" y="119" width="31" height="29" as="geometry" />
+          <mxGeometry x="847" y="119" width="31" height="29" as="geometry" />
         </mxCell>
         <mxCell id="7BhhN1L9Lo45RrHUkkJ7-30" value="Now we will go to Deploy EC2 using launch templates and Auto Scaling Groups." style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeWidth=0;align=left;fillColor=none;strokeColor=#DAE8FC;" vertex="1" parent="1">
-          <mxGeometry x="880" y="108" width="208" height="51" as="geometry" />
+          <mxGeometry x="884" y="108" width="208" height="51" as="geometry" />
         </mxCell>
         <mxCell id="7BhhN1L9Lo45RrHUkkJ7-31" value="Last thing we will need for this project is a database. Amazon RDS." style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeWidth=0;align=left;fillColor=none;strokeColor=#DAE8FC;" vertex="1" parent="1">
-          <mxGeometry x="880" y="182" width="208" height="51" as="geometry" />
+          <mxGeometry x="884" y="182" width="208" height="51" as="geometry" />
         </mxCell>
         <mxCell id="7BhhN1L9Lo45RrHUkkJ7-32" value="&lt;h1&gt;5&lt;/h1&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#7EA6E0;strokeWidth=1;fontColor=#666666;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="843" y="193" width="31" height="29" as="geometry" />
+          <mxGeometry x="847" y="193" width="31" height="29" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
